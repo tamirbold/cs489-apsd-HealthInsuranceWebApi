@@ -15,7 +15,7 @@ public class HealthinsurancewebapiApplication {
 	@Bean
 	CommandLineRunner commandLineRunner (){
 		return (args) -> {
-			System.out.println("hello webapi");
+			System.out.println("Hello HealthinsurancewebapiApplication");
 		};
 	}
 }
